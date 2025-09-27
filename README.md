@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buzkiran
 - 👀 I’m interested in space studies
-- 🌱 I’m currently studying Mathematical Engineering
+- 🌱 Mathematical Engineering graduate from Istanbul Technical University
 - 📫 How to reach me on linkedin: https://www.linkedin.com/in/aybukesudebuzkiran/
 
 <!---
